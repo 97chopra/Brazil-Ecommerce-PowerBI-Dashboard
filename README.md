@@ -1,4 +1,4 @@
-# 🇧🇷 Brazil E-Commerce Sales Dashboard
+# Brazil E-Commerce Sales Dashboard
 
 A complete **end-to-end Data Analytics** project analyzing Brazilian e-commerce sales performance using **SQL Server** and **Power BI**.
 
